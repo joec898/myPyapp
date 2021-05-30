@@ -1,0 +1,22 @@
+{
+    "acquirer": "XXXXX",
+    "vol_type": "Live",
+    "price_type": "Settle",
+    "portfolios": "Softs OTC NORAM,Softs Trading",
+    "strategies": "NY Coffee,Coffee Vol",
+    "filepath": "output/",
+    "env": "production",
+    "version": "v13",
+    "username": "jochen",
+    "password": "xxx",
+    "token": "get and paste token here from logging in",
+    "base_url_prod": "https://api.xxx",
+    "base_url_uat": "https://api.xxx",
+    "base_url_qa": "https://api.xxx",
+    "base_url_dev": "https://api.xxx/",
+    "proxy_url": "web.prod.xxx",
+    "vol_type_index": 0,
+    "price_type_index": 1,
+    "auto_save_settings": 0,
+    "asof_date": "2021-05-19"
+}
